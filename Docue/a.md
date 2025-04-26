@@ -47,3 +47,5 @@ Develop has park kind arch benefit.
 Develop has park kind arch marry.
 
 Develop has park kind arch land.
+
+Develop has major.
